@@ -2,6 +2,8 @@
 <p align="center">
   <b>B.Tech CSE Student at Lovely Professional University</b><br>
   <i>Aspiring AI Engineer | Full-Stack Developer</i>
+  ![Coding]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDI5OHg5cGZpanM4emZuZ3JiYW5ub25qZnlkdjloeGZ3aHpkbTQ0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wvPcxKARYQFnCYVU79/giphy.gif))
+
 </p>
 
 ---
