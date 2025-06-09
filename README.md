@@ -28,8 +28,9 @@
 
 ## 🌟 Featured Projects
 
-- 🔬 [Multi-Disease Prediction System](#)
+- 🔬 [Multi-Disease Prediction System](https://github.com/sushantkumar143/Multi-Disease-prediction-Model)
 - 🤖 [AI-Powered Task Management Bot](#)
+- 🛠️ [IBM Attrition Analysis Dashboard](https://github.com/sushantkumar143/IBM-Attrition-Analysis-Dashboard)
 - 🧠 [Real-Time Cheating Detection System](#)
 - 🧪 [Medical Assistance Dashboard](#)
 - 🛠️ [DIY Home Improvement Assistant](#)
@@ -39,7 +40,7 @@
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/sushant-kumar-profile)
-- [Email](mailto:sushant@example.com)
+- [Email](mailto:kumarsushant200641@gmail.com)
 - [Portfolio Website](https://sushant-portfolio.dev)
 
 ---
