@@ -7,6 +7,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdxdmM4MzRjOHVtYm1xN2poeDUxdDdkeHU1c21mbmpuNzFpcDhxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AdtB8TtizElk0OrRGR/giphy.gif" width="300" />
 </p>
 
+![api-512d36c09662682717108a38bbb5c57d](https://github.com/user-attachments/assets/a61e5d57-2349-4c05-af47-e1d20ee83f59)
+
 ---
 
 ## 🚀 About Me
@@ -56,3 +58,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushantkumar143&show_icons=true&theme=radical" alt="Sushant's GitHub stats" />
 </p>
+![api-512d36c09662682717108a38bbb5c57d](https://github.com/user-attachments/assets/a61e5d57-2349-4c05-af47-e1d20ee83f59)
