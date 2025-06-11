@@ -4,13 +4,12 @@
   <b>B.Tech CSE Student at Lovely Professional University</b><br>
   <i>Aspiring AI Engineer | Full-Stack Developer</i><br><br>
 <!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDI5OHg5cGZpanM4emZuZ3JiYW5ub25qZnlkdjloeGZ3aHpkbTQ0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wvPcxKARYQFnCYVU79/giphy.gif" width="300" /> -->
-<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdxdmM4MzRjOHVtYm1xN2poeDUxdDdkeHU1c21mbmpuNzFpcDhxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AdtB8TtizElk0OrRGR/giphy.gif" width="300" /> -->
   
 <img src="https://github.com/user-attachments/assets/a61e5d57-2349-4c05-af47-e1d20ee83f59" width="300" />
 
 </p>
 
-![api-512d36c09662682717108a38bbb5c57d](https://github.com/user-attachments/assets/a61e5d57-2349-4c05-af47-e1d20ee83f59)
+
 
 ---
 
